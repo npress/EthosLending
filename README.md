@@ -3,10 +3,10 @@ Uses amount of loan, interest, downpayment and term to compute monthy payment, t
 
 This program prints output from several boundary test conditions to the screen.  After that
 the user has the option to input their own data in the following format:
-amount: 1200
-interest: 3.4%
-downpayment: 200
-term: 3
+amount: 1200<br />
+interest: 3.4%<br />
+downpayment: 200<br />
+term: 3<br />
 
 Note that the last line is to remain blank for the input.  Amount is parsed as a decimal.
 Interest is parsed as a decimal.  Downpayment is parsed as a decimal.  Term is parsed as
