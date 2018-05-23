@@ -2,7 +2,7 @@
 Uses amount of loan, interest, downpayment and term to compute monthy payment, total interest, and total payment.
 
 This program prints output from several boundary test conditions to the screen.  After that
-the user has the option to input their own data in the following format:
+the user has the option to input their own data in the following format:<br />
 amount: 1200<br />
 interest: 3.4%<br />
 downpayment: 200<br />
